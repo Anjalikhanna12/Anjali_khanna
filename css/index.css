@@ -1,0 +1,50 @@
+#tool{
+    height: 200px;
+    width: 200px;
+    /* transition: box-shadow .3s;
+    border-radius: 3%; */
+}
+/* #tool:hover{
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.404);
+} */
+#heading{
+    border-bottom: 0.1rem solid #d3d3d3;
+
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+#aboutme{
+    transition: box-shadow .3s;
+
+}
+
+#aboutme:hover{
+    border-radius: 3%;
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.404);
+}
+#hire:hover{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+}
+
+#tools{
+    height: 150px;
+    width: 150px;
+    transition: box-shadow .3s;
+    border-radius: 3%;
+}
+#tools:hover{
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.404);
+}
+
+#image{
+    transition: box-shadow .3s;
+    border-radius: 3%;
+}
+#image:hover{
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.404);
+}
